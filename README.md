@@ -1,2 +1,3 @@
 # rust_vulkan_imgui
-Test of imgui crate with Vulkan.
+
+Test of `imgui` crate with `Vulkan`.
